@@ -16,13 +16,13 @@ We are a passionate group of engineers and developers dedicated to exploring, de
 
 -   **Overview:** This project focuses on developing a robot capable of automatically identifying, picking, and sorting packages. It uses advanced computer vision and machine learning techniques to improve efficiency and accuracy in logistics warehouses.
 -   **Tech Stack:** ROS, Python, C++, OpenCV, deep learning, motion control
--   **Repository:** [Link to your project repository](https://github.com/longlongrobot/)
+-   **Repository:** https://github.com/longlongrobot/
 
 #### 2. Project Name (e.g., Autonomous Inspection Vehicle)
 
 -   **Overview:** This vehicle is designed for autonomous indoor or outdoor inspections. It can plan its own path, avoid obstacles, and transmit real-time environmental data, making it ideal for factory patrols and security monitoring.
 -   **Tech Stack:** Jetson Nano, LiDAR, SLAM algorithms, Python, C++, robotics operating systems
--   **Repository:** [Link to your project repository](https://github.com/longlongrobot/)
+-   **Repository:** (https://github.com/longlongrobot/
 
 ---
 
@@ -41,7 +41,7 @@ We welcome contributions from the community! If you're interested in helping us 
 
 If you have any questions or collaboration inquiries, feel free to reach out:
 
--   **Email:** `your_su.wenlong@outlook.com`
--   **Website:** [Link to your team's website or blog](https://www.longlongrobot.github.io)
+-   **Email:** `su.wenlong@outlook.com`
+-   **Website:** (https://www.longlongrobot.github.io)
 
 Thanks for visiting, and we look forward to building amazing robots with you!
